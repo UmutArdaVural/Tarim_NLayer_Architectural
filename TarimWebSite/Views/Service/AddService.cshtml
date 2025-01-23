@@ -1,0 +1,53 @@
+﻿
+@model TarimWebSite.Models.ServiceAddViewModel
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center text-primary">Yeni Hizmet Girişi</h1>
+
+<form method="post">
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <tr>
+                <td>@Html.LabelFor(model => model.Title, "Başlık", new { @class = "text-success" })</td>
+                <td><input type="text" asp-for="Title" class="form-control border-primary" /></td>
+                
+            </tr>
+            <tr> 
+                <td> </td>
+                <td> <span asp-validation-for="Title" class="text-danger"> </span> </td>
+            </tr>
+           
+             
+            <tr>
+                <td>@Html.LabelFor(model => model.Image, "Görsel Yolu", new { @class = "text-info" })</td>
+                <td><input type="text" asp-for="Image" class="form-control border-info" /></td>
+
+
+            </tr>
+
+            <tr>
+                <td> </td>
+                <td><span asp-validation-for="Image" class="text-danger"> </span> </td>
+
+            </tr>
+          
+            <tr>
+                <td>@Html.LabelFor(model => model.Description, "Açıklama", new { @class = "text-warning" })</td>
+                <td><input type="text" asp-for="Description" class="form-control border-warning" /></td>
+
+            </tr>
+            <tr>
+                <td> </td>
+                <td><span asp-validation-for="Description" class="text-danger"> </span> </td>
+            </tr>
+            <tr>
+                <td colspan="2" class="text-center">
+                    <button type="submit" class="btn btn-success">Kayıt Ekle</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>

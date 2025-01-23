@@ -1,0 +1,26 @@
+﻿@using EntityLayer.Concrete 
+@model List<Service>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table" style="border: 1px solid #90caf9; width: 100%; text-align: left;">
+    <thead>
+        <tr style="background-color: #fdd835; color: #000;">
+            <th scope="col" style="border: 1px solid #90caf9; padding: 8px;">#</th>
+            <th scope="col" style="border: 1px solid #90caf9; padding: 8px;">Başlık</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr style="background-color: @(item.ServiceID % 3 != 0 ? "#F0F8FF" : "#B0C4DE");">
+                <th scope="row" style="border: 1px solid #90caf9; padding: 8px;">@item.ServiceID</th>
+                <td style="border: 1px solid #90caf9; padding: 8px;">@item.Title</td>
+            </tr>
+        }
+    </tbody>
+</table>
