@@ -1,0 +1,87 @@
+﻿@using EntityLayer.Concrete
+@model List<Announcement>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<div class="col-lg-12 grid-margin stretch-card">
+
+    <div class="card">
+       
+        <div class="card-body">
+          
+            <h4 class="card-title">Takım Tablosu</h4>
+            <br />
+            <div class="table-responsive">
+             
+
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                #
+                            </th>
+                            <th>
+                               Başlık
+                            </th>
+                            <th>
+                               İçerik
+                            </th>
+                            <th>
+                               Tarih
+                            </th>
+                            <th>
+                                Sil
+                            </th>
+                            <th>
+                                Düzenle
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+
+                        @foreach (var item in Model)
+                        {
+                            if (Model == null)
+                            {
+                                <tr> Hiç Duyuru Bulunmadı </tr>
+                                return;
+                            }
+
+                            <tr>
+                                <td> @item.AnnouncementId</td>
+                                
+                                <td> @item.Title</td>
+                                <td> @item.Description</td>
+                                <td> @item.CreateDateTime</td>
+                                <td style=" padding: 8px; text-align: center; width: 100px;">
+                                    <a href="/Announcements/DeleteAnnouncement/@item.AnnouncementId">
+                                        <button type="button" class="btn btn-danger btn-sm" style="width: 100%;">Duyuru Sil</button>
+                                    </a>
+                                </td>
+                                <td style=" padding: 8px; text-align: center; width: 160px;">
+                                    <a href="/Announcements/EditAnnouncement/@item.AnnouncementId">
+                                        <button type="button" class="btn btn-sm" style="width: 100%; background-color: #7FFFD4; color: #000;">Duyuru Güncelle</button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+                <br />
+                <a href="/Announcements/AddAnnouncement">
+                    <button type="button" style="background-color:#008B8B; color:white;" class="btn btn-success">Duyuru  Ekle</button>
+                </a>
+
+
+                <br />
+            </div>
+        </div>
+    </div>
+</div>
+

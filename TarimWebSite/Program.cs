@@ -10,6 +10,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IServicesService, ServiceManager>();
 builder.Services.AddScoped<IServicesDal, EfServicesDal>();
+
+builder.Services.AddScoped<ITeamsService, TeamManager>();
+builder.Services.AddScoped<ITeamsDal, EfTeamsDal>();
+
+builder.Services.AddScoped<IAnnouncementsService, AnnouncementsManager>();
+builder.Services.AddScoped<IAnnouncementsDal, EfAnnouncementsDal>();
+
 builder.Services.AddDbContext<TarimWebSiteContext>();
 var app = builder.Build();
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\announcements\\editannouncement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\announcements\\editannouncement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\announcements\\addannouncement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\announcements\\addannouncement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\service\\editservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,53 +19,120 @@
       "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\service\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iteamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iannouncementsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\team\\editteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\team\\editteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\icontactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\announcements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\announcements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\team\\addteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\team\\addteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643FB9E2-959A-48A0-8212-A00CDE7193CE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umuta\\source\\repos\\dataaccesslayer\\concrete\\entityframework\\efservicesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\concrete\\announcementsmanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\concrete\\teammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iannouncementsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\icontactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iteamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643FB9E2-959A-48A0-8212-A00CDE7193CE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umuta\\source\\repos\\dataaccesslayer\\concrete\\entityframework\\efteamsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643FB9E2-959A-48A0-8212-A00CDE7193CE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umuta\\source\\repos\\dataaccesslayer\\concrete\\entityframework\\efservicesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643FB9E2-959A-48A0-8212-A00CDE7193CE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umuta\\source\\repos\\dataaccesslayer\\concrete\\entityframework\\efannouncementsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\tarimwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:tarimwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\validationrules\\teamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\service\\deneme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\service\\deneme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\wwwroot\\majesticadmin-free-bootstrap-admin-template-master\\template\\pages\\forms\\basic_elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:wwwroot\\majesticadmin-free-bootstrap-admin-template-master\\template\\pages\\forms\\basic_elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\wwwroot\\majesticadmin-free-bootstrap-admin-template-master\\template\\pages\\tables\\basic-table.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:wwwroot\\majesticadmin-free-bootstrap-admin-template-master\\template\\pages\\tables\\basic-table.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E75360F6-BEBE-421B-87A6-832E0150B371}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\umuta\\source\\repos\\entitylayer\\concrete\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|c:\\users\\umuta\\source\\repos\\tarimwebsite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1578583-66E6-44B9-92A4-33AAF530146C}|TarimWebSite.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2576A-B01D-46EB-8128-F6FE039D27C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\umuta\\source\\repos\\businesslayer\\absract\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{643FB9E2-959A-48A0-8212-A00CDE7193CE}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umuta\\source\\repos\\dataaccesslayer\\migrations\\20250123102035_yeni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -78,8 +145,235 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditAnnouncement.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\EditAnnouncement.cshtml",
+              "RelativeDocumentMoniker": "Views\\Announcements\\EditAnnouncement.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\EditAnnouncement.cshtml",
+              "RelativeToolTip": "Views\\Announcements\\EditAnnouncement.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T19:31:57.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAnnouncement.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\AddAnnouncement.cshtml",
+              "RelativeDocumentMoniker": "Views\\Announcements\\AddAnnouncement.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\AddAnnouncement.cshtml",
+              "RelativeToolTip": "Views\\Announcements\\AddAnnouncement.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T18:50:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfAnnouncementsDal.cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Concrete\\EntityFramework\\EfAnnouncementsDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfAnnouncementsDal.cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Concrete\\EntityFramework\\EfAnnouncementsDal.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfAnnouncementsDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:35:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Announcements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Announcements\\Index.cshtml",
+              "RelativeToolTip": "Views\\Announcements\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T18:02:14.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnnouncementsController.cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\AnnouncementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnnouncementsController.cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\AnnouncementsController.cs",
+              "RelativeToolTip": "Controllers\\AnnouncementsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIA7wDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:40:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnnouncementsManager .cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\AnnouncementsManager .cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\AnnouncementsManager .cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\AnnouncementsManager .cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Concrete\\AnnouncementsManager .cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:24:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditTeam.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\EditTeam.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\EditTeam.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\EditTeam.cshtml",
+              "RelativeToolTip": "Views\\Team\\EditTeam.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T09:42:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamValidator.cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\ValidationRules\\TeamValidator.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\ValidationRules\\TeamValidator.cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\ValidationRules\\TeamValidator.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\ValidationRules\\TeamValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:24:15.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TarimWebSite.csproj",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\TarimWebSite.csproj",
+              "RelativeDocumentMoniker": "TarimWebSite.csproj",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\TarimWebSite.csproj",
+              "RelativeToolTip": "TarimWebSite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T08:22:05.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T08:19:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "basic_elements.html",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html",
+              "RelativeDocumentMoniker": "wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html",
+              "RelativeToolTip": "wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAYwBEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T20:58:23.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTeam.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\AddTeam.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\AddTeam.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\AddTeam.cshtml",
+              "RelativeToolTip": "Views\\Team\\AddTeam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T20:52:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfTeamsDal.cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Concrete\\EntityFramework\\EfTeamsDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfTeamsDal.cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Concrete\\EntityFramework\\EfTeamsDal.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfTeamsDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:34:06.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "Views\\Team\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T14:32:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Controllers\\TeamController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:28:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "basic-table.html",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html",
+              "RelativeDocumentMoniker": "wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html",
+              "RelativeToolTip": "wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAYwHMBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T13:45:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Deneme.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\Deneme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Service\\Deneme.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\Deneme.cshtml",
+              "RelativeToolTip": "Views\\Service\\Deneme.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T12:42:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T12:35:16.695Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -88,14 +382,14 @@
               "RelativeDocumentMoniker": "Views\\Service\\EditService.cshtml",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\EditService.cshtml",
               "RelativeToolTip": "Views\\Service\\EditService.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T14:02:47.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "ServiceAddViewModel.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Models\\ServiceAddViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ServiceAddViewModel.cs",
@@ -103,8 +397,7 @@
               "RelativeToolTip": "Models\\ServiceAddViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:58:34.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T12:58:34.323Z"
             },
             {
               "$type": "Document",
@@ -114,53 +407,53 @@
               "RelativeDocumentMoniker": "Views\\Service\\AddService.cshtml",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\AddService.cshtml",
               "RelativeToolTip": "Views\\Service\\AddService.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T11:53:03.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T11:29:49.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Service\\Index.cshtml",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Service\\Index.cshtml",
               "RelativeToolTip": "Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAACDAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T11:17:00.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "Controllers\\ServiceController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowDwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T11:16:12.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "EfServicesDal.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Concrete\\EntityFramework\\EfServicesDal.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfServicesDal.cs",
@@ -168,24 +461,25 @@
               "RelativeToolTip": "..\\DataAccessLayer\\Concrete\\EntityFramework\\EfServicesDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:33:53.521Z"
+              "WhenOpened": "2025-01-23T10:33:53.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\ServiceManager.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\ServiceManager.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\ServiceManager.cs",
               "RelativeToolTip": "..\\BusinessLayer\\Concrete\\ServiceManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T10:23:59.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "20250123102035_yeni.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\DataAccessLayer\\Migrations\\20250123102035_yeni.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20250123102035_yeni.cs",
@@ -197,19 +491,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\EntityLayer\\Concrete\\Team.cs",
               "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Team.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\EntityLayer\\Concrete\\Team.cs",
               "RelativeToolTip": "..\\EntityLayer\\Concrete\\Team.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T10:18:59.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
@@ -217,12 +511,11 @@
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T10:15:24.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T10:15:24.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "DefaultController.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\Controllers\\DefaultController.cs",
               "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
@@ -235,32 +528,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "TeamManager.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\TeamManager.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\TeamManager.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Concrete\\TeamManager.cs",
               "RelativeToolTip": "..\\BusinessLayer\\Concrete\\TeamManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:21:19.079Z"
+              "WhenOpened": "2025-01-23T09:21:19.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ITeamsService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\ITeamsService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\ITeamsService.cs",
               "ToolTip": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\ITeamsService.cs",
               "RelativeToolTip": "..\\BusinessLayer\\Absract\\ITeamsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T09:13:37.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "IServicesService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\IServicesService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\IServicesService.cs",
@@ -273,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "IImagesService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\IImagesService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\IImagesService.cs",
@@ -286,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IContactsService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\IContactsService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\IContactsService.cs",
@@ -299,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IAnnouncementsService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\IAnnouncementsService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\IAnnouncementsService.cs",
@@ -312,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 36,
               "Title": "IAddressService.cs",
               "DocumentMoniker": "C:\\Users\\umuta\\source\\repos\\BusinessLayer\\Absract\\IAddressService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Absract\\IAddressService.cs",
@@ -320,8 +614,7 @@
               "RelativeToolTip": "..\\BusinessLayer\\Absract\\IAddressService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:07:03.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T09:07:03.336Z"
             },
             {
               "$type": "Document",

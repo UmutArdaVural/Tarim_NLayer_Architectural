@@ -61,6 +61,10 @@ namespace TarimWebSite.Controllers
                _servicesService.Update(service);
             return RedirectToAction("Index");
         }
-
+        public  IActionResult Deneme()
+        {
+            return View();
+        }
+       
     }
 }

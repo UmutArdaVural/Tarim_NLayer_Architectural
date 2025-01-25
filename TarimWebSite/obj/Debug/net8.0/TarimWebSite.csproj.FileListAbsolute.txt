@@ -292,3 +292,7 @@ C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\runtimes\win\lib\net7.
 C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\umuta\source\repos\TarimWebSite\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\umuta\source\repos\TarimWebSite\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\umuta\source\repos\TarimWebSite\obj\Debug\net8.0\TarimWebSite.MvcApplicationPartsAssemblyInfo.cs

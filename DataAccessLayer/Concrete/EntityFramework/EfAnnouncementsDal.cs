@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete.EntityFramework
 {
-    internal class EfAnnouncementsDal : GenericRepository<Announcement>, IAnnouncementsDal
+    public class EfAnnouncementsDal : GenericRepository<Announcement>, IAnnouncementsDal
     {
     }
 }
