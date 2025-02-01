@@ -17,6 +17,22 @@ builder.Services.AddScoped<ITeamsDal, EfTeamsDal>();
 builder.Services.AddScoped<IAnnouncementsService, AnnouncementsManager>();
 builder.Services.AddScoped<IAnnouncementsDal, EfAnnouncementsDal>();
 
+builder.Services.AddScoped<IImagesService, ImageManager>();
+builder.Services.AddScoped<IImagesDal, EfImagesDal>();
+
+builder.Services.AddScoped<IAddressService, AddressManeger>();
+builder.Services.AddScoped<IAddressDal, EfAdressDal>();
+
+builder.Services.AddScoped<IContactsService, ContactManager>();
+builder.Services.AddScoped<IContactsDal, EfContactsDal>();
+
+builder.Services.AddScoped<ISocialMediaService, SocialMediaManager>();
+builder.Services.AddScoped<ISocialMediaDal, EfSocialMedia>();
+
+builder.Services.AddScoped<IAboutService, AboutManager>();
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+
+
 builder.Services.AddDbContext<TarimWebSiteContext>();
 var app = builder.Build();
 

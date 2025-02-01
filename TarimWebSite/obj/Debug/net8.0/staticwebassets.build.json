@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FP83qzFpZb+vjKaFYhOpdwDAvKYCS9fAhVtWQiZw/ks=",
+  "Hash": "4u5EXSLYIQgl3oqTAz6qyC2/1nO8qjHodm/DZPnGWSM=",
   "Source": "TarimWebSite",
   "BasePath": "_content/TarimWebSite",
   "Mode": "Default",
@@ -4257,6 +4257,1245 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\bootstrap.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ltmlwns538",
+      "Integrity": "yUJoYBDihWM9d6JDQcQ4UMzWFi/MfoKBropwwpIamvU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\chocolat.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/chocolat#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwoi8nfkmt",
+      "Integrity": "mwLICaW88tArKg/wooW8aT7zl6Zouc/SONE8RT2or/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\chocolat.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\common.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/common#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xcp3ojobyj",
+      "Integrity": "ISdIcBdUT3RvV3MfvdAcDtpRUFenPhHNsMfZOHoowNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\common.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/easy-responsive-tabs#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afzsjbqh4i",
+      "Integrity": "qn45Gq5uVxn75qqSxI3JgNSHX3IqDXeg6iJ3qp1sWII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\font-awesome.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/font-awesome#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t7aoqleyiw",
+      "Integrity": "uXf0U0UCIqBp2J3S53b28h+fpC9uFcA8f+b/NNmiwVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\font-awesome.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\style.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9mevhqsqhu",
+      "Integrity": "Pwsgeh1ouDfunq0P3OAsoukjMHiMGCSuLbxqWCr6k7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/FontAwesome#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81c8p4mxph",
+      "Integrity": "7NcvMZEKjuJyb9F71Fm+JvIwd58/PtX2nr+CnksS52g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/fontawesome-webfont#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8y2jz3soc4",
+      "Integrity": "ULvpGSaX55Hi7k73OReusbA+cn3/CKH8jXTwDkqoEuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/fontawesome-webfont#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i021en4tkg",
+      "Integrity": "jjWGOJu0zQGz+FuztiJzm95mJ/KLumOgIMIjypzxua4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67h1lttds5",
+      "Integrity": "rhni5MBPKwS/AwaExMHbj69cj+PuA9HgxAkEZgiziRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91cvyzezk9",
+      "Integrity": "rbxPlettfyc4lZzw7Lw3RnL85H6FYFCo6XkfRXYjrCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b62mvgybyh",
+      "Integrity": "faz4P1EXnejXmApRPmerOgjyxicrtZRt+P13wNF2O3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "torz25362b",
+      "Integrity": "E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "masyeah4yd",
+      "Integrity": "QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li0e4nnnks",
+      "Integrity": "45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqew9mh6jt",
+      "Integrity": "omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y3zdydnkm9",
+      "Integrity": "/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arr.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/arr#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3jmy0lz946",
+      "Integrity": "j4oDzpHn4XYDzTj9Ie+rgZX/gyWCNy4TXBDnZ39omIo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\arr.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arrows.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/arrows#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hivkgf2uc4",
+      "Integrity": "iSi+jUiVhAdSuygt9Pknd5WjdQkd29hhh8QeotjIlQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\arrows.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b1.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "co827wg1pt",
+      "Integrity": "lEBamDUJ+KSrU6kn9r8YEXSdyGYU1zpWMAr/PQlSjog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\b1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b2.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rb4fuvfa6a",
+      "Integrity": "p+1T3HkywDBtLZqxfxrPzvXExbYsOJ0kwxeCJ9XPN6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b3.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9fan0aw47o",
+      "Integrity": "hfwMYfRRa0opcEVia5LpWXh8wUgggsyRpZF/pMyTeBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\banner1.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/banner1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3b7k965kw",
+      "Integrity": "DtSkfeSye/GeSDjKBb5Qqn7QH0M5dgGw6VK+2362wfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\banner1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c1.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/c1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0toqrimxlr",
+      "Integrity": "7Nz2probFLPUAnSx2+h1lcp73FduiNoyI2YHX1Ka32A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\c1.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c2.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/c2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmvqons9xx",
+      "Integrity": "ZAkWISsYwlG6qeULav7dCYkKM/5zk5CFvkt8ifw8xxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\c2.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c3.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/c3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e1oarw0oas",
+      "Integrity": "zuwv7fA1o6PxnHaJGI8Q5LCqf+j47i5RDKHANkH4KZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\c3.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\close.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/close#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "28a9arixv9",
+      "Integrity": "/m1hIL2XhPu/820rEWaK/fF3Qqm0JmpDZrqedK7XDrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\close.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\contact.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/contact#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uiw6guv6oy",
+      "Integrity": "2l0ZDOF0tmSSJQ8p5b8Jy8KFJVBQKV3z9yfxbRBKZ2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\contact.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g1.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vw3vxydpo4",
+      "Integrity": "cUGiEqMx41zaQcsGWc9taji8IUt3M0gCGbxsonr18yk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g10.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ax25c4nco",
+      "Integrity": "ARZe79ukAcDx0Agl8t/qbWbXw8FkV/Ng5O4exh41kaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g11.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlse0an7yu",
+      "Integrity": "q99CJ1PjcmbXm5WMyaEIOwMPGG0U6Xzkm0LfZVR+hgM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g12.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ptxxa826t",
+      "Integrity": "a8LQKF478vzuAUpezwrZcnqmfXvX+Z21eLGEkPchXGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g2.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2h6ewpgw95",
+      "Integrity": "RjzOyZCNMsslrGGVYocBZc4Vjce/c97NCWmP77e8vkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g3.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tkd68qzqjw",
+      "Integrity": "wxV1kg7bKDehFxYol/9F3ccIG2HKE3isZWDeL16wtdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g4.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jpsuzi6kpl",
+      "Integrity": "19daeofkxsNV6NInPW/0e1fewjlhgV3DkXDhnawZplQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g5.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rrsy2caase",
+      "Integrity": "2SeLDNuec4KO4FXZa96l5bd/+96D98EhFU1BV60izrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g6.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r76dh62gag",
+      "Integrity": "twn5tRuBSyQaTJC6KzkBcakgy0S6aqQik8L4CMnbGH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g7.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mk5rctzus3",
+      "Integrity": "CtvxtEz7JYT8v2oA4Ut9sAinp+gfsHfTY2xR3LEq2zU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g8.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrpnlkmszr",
+      "Integrity": "Nkf5jTvOpJgB8QjLQEHEXA14W23B7FmD8d1lY2u2+E4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g9.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/g9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7kk1dujnil",
+      "Integrity": "V3N5C1cLQ04DyS1DmWCgsnZBeuW98QfE/sO3cLRhkdk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\g9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\left1.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/left1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ouxsrkvnld",
+      "Integrity": "oOpu9U2/jx+g9lNpmBKCnWTlXH+dhrRLn2p/C+zFeZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\left1.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\right1.png",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/right1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x00e4cg7w8",
+      "Integrity": "oevU0cDQ25tE5LmDsE4qxV3fAKWgDw59nIxIaqdyjRQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\right1.png"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\s2.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/s2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jpky8iw3qd",
+      "Integrity": "qRJQooNo37vhufWWcz1Mh6E+Emgj2Yp3JvrboIJknWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\s2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t1.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/t1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37vc4hdjxa",
+      "Integrity": "Ed8vV1vY9OL1B+ds2WdTLY82ZpjiI7YAbTrKgccs8j8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\t1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t2.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/t2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c65j7bp8px",
+      "Integrity": "9KM99nW+xkkcRoOzIKZn3AN7Ms7hX4QCBceSEKFey9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\t2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t3.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/t3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rymwk01rkq",
+      "Integrity": "vV9scGkvcp+eMcQHqr/bz7qSwQV9t45Um3ycn4at6RU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\t3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t4.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/images/t4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6zrw8neak",
+      "Integrity": "HeWGEu2GeciiwP1S0PlFjdk4TAsRZ98mWKpjkrCq1gk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\t4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\index.html",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0wokukn9t",
+      "Integrity": "4Xtcmq1xlaGycPx4BrOa8HNg+PTH7gdAymPXtqfpQnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/bootstrap-3.1.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tvljo4vky9",
+      "Integrity": "iY0FoX8s/FEg3c26R6iFw3jAtGbzDwcA5QJ1fiS0A6E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easing.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/easing#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxaw5gyt3t",
+      "Integrity": "ZcQVxKOizis3JWenvXvxCsxV7ZI55ytO+E8UND0egcs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\easing.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/easy-responsive-tabs#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aeovyxw7f5",
+      "Integrity": "vizadZEtfo3DGEgYx7HIKKnApw1FnxeJpwkEGIlRasE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/jquery.chocolat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jwq38cvl2r",
+      "Integrity": "85KrfuuKA8JfQmEIjEPmMNE0kz4Z648mV3+Sf3VhJgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\jquery.chocolat.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/jquery.picEyes#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "napbh21x5l",
+      "Integrity": "z52/COlSVl4GyRH5S0EV9MtbY4SnyyELhP27to5eV68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\jquery.picEyes.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/jquery-2.1.4.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hc7330kktn",
+      "Integrity": "8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\main.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7vrlcivdo",
+      "Integrity": "QWTMMHxn3YiU7XJ2e5BfZ2BwqjxZaDBLEIY+vmoDLsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/modernizr-2.6.2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zralgbu0ia",
+      "Integrity": "zyXsGPIj9MUc4RKKQuZEzcIkTYj4nRpRRA2dvlH07+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\move-top.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/move-top#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwsdrdekva",
+      "Integrity": "cf0Aok3Zr6TKIvLIcTz3tMIt1xzinhkyZZfNaFk1CTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\move-top.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/js/responsiveslides.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3mkjgv0oy",
+      "Integrity": "HzBttanClHes3Wt41Xc08Kp5NqH6m5uovTYgS6Eqr0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\js\\responsiveslides.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\w3layouts-License.txt",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "web/w3layouts-License#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abk39e1po0",
+      "Integrity": "aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\w3layouts-License.txt"
     }
   ],
   "Endpoints": [
@@ -20683,7 +21922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 18:31:49 GMT"
+          "Value": "Fri, 31 Jan 2025 16:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20720,7 +21959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 18:31:49 GMT"
+          "Value": "Fri, 31 Jan 2025 16:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20757,7 +21996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 18:31:49 GMT"
+          "Value": "Fri, 31 Jan 2025 16:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20802,7 +22041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 18:31:49 GMT"
+          "Value": "Fri, 31 Jan 2025 16:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20821,6 +22060,4844 @@
         {
           "Name": "integrity",
           "Value": "sha256-pYtEg/XmrE4EFRzWO9/aRO9YBvYHXfm95niSqUAhayo="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yUJoYBDihWM9d6JDQcQ4UMzWFi/MfoKBropwwpIamvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yUJoYBDihWM9d6JDQcQ4UMzWFi/MfoKBropwwpIamvU="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/bootstrap.ltmlwns538.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yUJoYBDihWM9d6JDQcQ4UMzWFi/MfoKBropwwpIamvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltmlwns538"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yUJoYBDihWM9d6JDQcQ4UMzWFi/MfoKBropwwpIamvU="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/chocolat.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\chocolat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwLICaW88tArKg/wooW8aT7zl6Zouc/SONE8RT2or/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwLICaW88tArKg/wooW8aT7zl6Zouc/SONE8RT2or/c="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/chocolat.rwoi8nfkmt.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\chocolat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwLICaW88tArKg/wooW8aT7zl6Zouc/SONE8RT2or/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwoi8nfkmt"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/chocolat.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwLICaW88tArKg/wooW8aT7zl6Zouc/SONE8RT2or/c="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/common.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\common.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISdIcBdUT3RvV3MfvdAcDtpRUFenPhHNsMfZOHoowNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISdIcBdUT3RvV3MfvdAcDtpRUFenPhHNsMfZOHoowNk="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/common.xcp3ojobyj.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\common.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISdIcBdUT3RvV3MfvdAcDtpRUFenPhHNsMfZOHoowNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcp3ojobyj"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/common.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISdIcBdUT3RvV3MfvdAcDtpRUFenPhHNsMfZOHoowNk="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/easy-responsive-tabs.afzsjbqh4i.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qn45Gq5uVxn75qqSxI3JgNSHX3IqDXeg6iJ3qp1sWII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afzsjbqh4i"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/easy-responsive-tabs.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qn45Gq5uVxn75qqSxI3JgNSHX3IqDXeg6iJ3qp1sWII="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/easy-responsive-tabs.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qn45Gq5uVxn75qqSxI3JgNSHX3IqDXeg6iJ3qp1sWII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qn45Gq5uVxn75qqSxI3JgNSHX3IqDXeg6iJ3qp1sWII="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/font-awesome.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXf0U0UCIqBp2J3S53b28h+fpC9uFcA8f+b/NNmiwVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXf0U0UCIqBp2J3S53b28h+fpC9uFcA8f+b/NNmiwVk="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/font-awesome.t7aoqleyiw.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXf0U0UCIqBp2J3S53b28h+fpC9uFcA8f+b/NNmiwVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t7aoqleyiw"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/font-awesome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXf0U0UCIqBp2J3S53b28h+fpC9uFcA8f+b/NNmiwVk="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/style.9mevhqsqhu.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pwsgeh1ouDfunq0P3OAsoukjMHiMGCSuLbxqWCr6k7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9mevhqsqhu"
+        },
+        {
+          "Name": "label",
+          "Value": "web/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwsgeh1ouDfunq0P3OAsoukjMHiMGCSuLbxqWCr6k7M="
+        }
+      ]
+    },
+    {
+      "Route": "web/css/style.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pwsgeh1ouDfunq0P3OAsoukjMHiMGCSuLbxqWCr6k7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwsgeh1ouDfunq0P3OAsoukjMHiMGCSuLbxqWCr6k7M="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/FontAwesome.81c8p4mxph.otf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7NcvMZEKjuJyb9F71Fm+JvIwd58/PtX2nr+CnksS52g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81c8p4mxph"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/FontAwesome.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7NcvMZEKjuJyb9F71Fm+JvIwd58/PtX2nr+CnksS52g="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/FontAwesome.otf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7NcvMZEKjuJyb9F71Fm+JvIwd58/PtX2nr+CnksS52g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7NcvMZEKjuJyb9F71Fm+JvIwd58/PtX2nr+CnksS52g="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.67h1lttds5.ttf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhni5MBPKwS/AwaExMHbj69cj+PuA9HgxAkEZgiziRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67h1lttds5"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhni5MBPKwS/AwaExMHbj69cj+PuA9HgxAkEZgiziRI="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.8y2jz3soc4.eot",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULvpGSaX55Hi7k73OReusbA+cn3/CKH8jXTwDkqoEuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8y2jz3soc4"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/fontawesome-webfont.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULvpGSaX55Hi7k73OReusbA+cn3/CKH8jXTwDkqoEuE="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.91cvyzezk9.woff",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rbxPlettfyc4lZzw7Lw3RnL85H6FYFCo6XkfRXYjrCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91cvyzezk9"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rbxPlettfyc4lZzw7Lw3RnL85H6FYFCo6XkfRXYjrCw="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.b62mvgybyh.woff2",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"faz4P1EXnejXmApRPmerOgjyxicrtZRt+P13wNF2O3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b62mvgybyh"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-faz4P1EXnejXmApRPmerOgjyxicrtZRt+P13wNF2O3M="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULvpGSaX55Hi7k73OReusbA+cn3/CKH8jXTwDkqoEuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULvpGSaX55Hi7k73OReusbA+cn3/CKH8jXTwDkqoEuE="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.i021en4tkg.svg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjWGOJu0zQGz+FuztiJzm95mJ/KLumOgIMIjypzxua4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i021en4tkg"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/fontawesome-webfont.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjWGOJu0zQGz+FuztiJzm95mJ/KLumOgIMIjypzxua4="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjWGOJu0zQGz+FuztiJzm95mJ/KLumOgIMIjypzxua4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjWGOJu0zQGz+FuztiJzm95mJ/KLumOgIMIjypzxua4="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rhni5MBPKwS/AwaExMHbj69cj+PuA9HgxAkEZgiziRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rhni5MBPKwS/AwaExMHbj69cj+PuA9HgxAkEZgiziRI="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rbxPlettfyc4lZzw7Lw3RnL85H6FYFCo6XkfRXYjrCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rbxPlettfyc4lZzw7Lw3RnL85H6FYFCo6XkfRXYjrCw="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"faz4P1EXnejXmApRPmerOgjyxicrtZRt+P13wNF2O3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-faz4P1EXnejXmApRPmerOgjyxicrtZRt+P13wNF2O3M="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.eot",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li0e4nnnks"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/glyphicons-halflings-regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.masyeah4yd.svg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "masyeah4yd"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/glyphicons-halflings-regular.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqew9mh6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/glyphicons-halflings-regular.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.svg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.torz25362b.eot",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "torz25362b"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/glyphicons-halflings-regular.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.ttf",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.woff",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.woff2",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "web/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y3zdydnkm9"
+        },
+        {
+          "Name": "label",
+          "Value": "web/fonts/glyphicons-halflings-regular.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/arr.3jmy0lz946.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j4oDzpHn4XYDzTj9Ie+rgZX/gyWCNy4TXBDnZ39omIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3jmy0lz946"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/arr.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j4oDzpHn4XYDzTj9Ie+rgZX/gyWCNy4TXBDnZ39omIo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/arr.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j4oDzpHn4XYDzTj9Ie+rgZX/gyWCNy4TXBDnZ39omIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j4oDzpHn4XYDzTj9Ie+rgZX/gyWCNy4TXBDnZ39omIo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/arrows.hivkgf2uc4.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arrows.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSi+jUiVhAdSuygt9Pknd5WjdQkd29hhh8QeotjIlQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hivkgf2uc4"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/arrows.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSi+jUiVhAdSuygt9Pknd5WjdQkd29hhh8QeotjIlQM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/arrows.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\arrows.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSi+jUiVhAdSuygt9Pknd5WjdQkd29hhh8QeotjIlQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSi+jUiVhAdSuygt9Pknd5WjdQkd29hhh8QeotjIlQM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b1.co827wg1pt.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEBamDUJ+KSrU6kn9r8YEXSdyGYU1zpWMAr/PQlSjog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co827wg1pt"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEBamDUJ+KSrU6kn9r8YEXSdyGYU1zpWMAr/PQlSjog="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b1.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEBamDUJ+KSrU6kn9r8YEXSdyGYU1zpWMAr/PQlSjog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEBamDUJ+KSrU6kn9r8YEXSdyGYU1zpWMAr/PQlSjog="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b2.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+1T3HkywDBtLZqxfxrPzvXExbYsOJ0kwxeCJ9XPN6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+1T3HkywDBtLZqxfxrPzvXExbYsOJ0kwxeCJ9XPN6I="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b2.rb4fuvfa6a.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+1T3HkywDBtLZqxfxrPzvXExbYsOJ0kwxeCJ9XPN6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rb4fuvfa6a"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+1T3HkywDBtLZqxfxrPzvXExbYsOJ0kwxeCJ9XPN6I="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b3.9fan0aw47o.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfwMYfRRa0opcEVia5LpWXh8wUgggsyRpZF/pMyTeBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9fan0aw47o"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hfwMYfRRa0opcEVia5LpWXh8wUgggsyRpZF/pMyTeBs="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/b3.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfwMYfRRa0opcEVia5LpWXh8wUgggsyRpZF/pMyTeBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hfwMYfRRa0opcEVia5LpWXh8wUgggsyRpZF/pMyTeBs="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/banner1.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DtSkfeSye/GeSDjKBb5Qqn7QH0M5dgGw6VK+2362wfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DtSkfeSye/GeSDjKBb5Qqn7QH0M5dgGw6VK+2362wfw="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/banner1.m3b7k965kw.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DtSkfeSye/GeSDjKBb5Qqn7QH0M5dgGw6VK+2362wfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3b7k965kw"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/banner1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DtSkfeSye/GeSDjKBb5Qqn7QH0M5dgGw6VK+2362wfw="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c1.0toqrimxlr.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Nz2probFLPUAnSx2+h1lcp73FduiNoyI2YHX1Ka32A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0toqrimxlr"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/c1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Nz2probFLPUAnSx2+h1lcp73FduiNoyI2YHX1Ka32A="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c1.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Nz2probFLPUAnSx2+h1lcp73FduiNoyI2YHX1Ka32A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Nz2probFLPUAnSx2+h1lcp73FduiNoyI2YHX1Ka32A="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c2.kmvqons9xx.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAkWISsYwlG6qeULav7dCYkKM/5zk5CFvkt8ifw8xxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmvqons9xx"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/c2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAkWISsYwlG6qeULav7dCYkKM/5zk5CFvkt8ifw8xxo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c2.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAkWISsYwlG6qeULav7dCYkKM/5zk5CFvkt8ifw8xxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAkWISsYwlG6qeULav7dCYkKM/5zk5CFvkt8ifw8xxo="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c3.e1oarw0oas.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuwv7fA1o6PxnHaJGI8Q5LCqf+j47i5RDKHANkH4KZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e1oarw0oas"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/c3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuwv7fA1o6PxnHaJGI8Q5LCqf+j47i5RDKHANkH4KZA="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/c3.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\c3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuwv7fA1o6PxnHaJGI8Q5LCqf+j47i5RDKHANkH4KZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuwv7fA1o6PxnHaJGI8Q5LCqf+j47i5RDKHANkH4KZA="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/close.28a9arixv9.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\close.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/m1hIL2XhPu/820rEWaK/fF3Qqm0JmpDZrqedK7XDrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28a9arixv9"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/close.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/m1hIL2XhPu/820rEWaK/fF3Qqm0JmpDZrqedK7XDrM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/close.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\close.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/m1hIL2XhPu/820rEWaK/fF3Qqm0JmpDZrqedK7XDrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/m1hIL2XhPu/820rEWaK/fF3Qqm0JmpDZrqedK7XDrM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/contact.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\contact.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l0ZDOF0tmSSJQ8p5b8Jy8KFJVBQKV3z9yfxbRBKZ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l0ZDOF0tmSSJQ8p5b8Jy8KFJVBQKV3z9yfxbRBKZ2s="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/contact.uiw6guv6oy.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\contact.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2l0ZDOF0tmSSJQ8p5b8Jy8KFJVBQKV3z9yfxbRBKZ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uiw6guv6oy"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/contact.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2l0ZDOF0tmSSJQ8p5b8Jy8KFJVBQKV3z9yfxbRBKZ2s="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g1.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cUGiEqMx41zaQcsGWc9taji8IUt3M0gCGbxsonr18yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cUGiEqMx41zaQcsGWc9taji8IUt3M0gCGbxsonr18yk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g1.vw3vxydpo4.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cUGiEqMx41zaQcsGWc9taji8IUt3M0gCGbxsonr18yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vw3vxydpo4"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cUGiEqMx41zaQcsGWc9taji8IUt3M0gCGbxsonr18yk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g10.7ax25c4nco.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ARZe79ukAcDx0Agl8t/qbWbXw8FkV/Ng5O4exh41kaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ax25c4nco"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ARZe79ukAcDx0Agl8t/qbWbXw8FkV/Ng5O4exh41kaU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g10.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ARZe79ukAcDx0Agl8t/qbWbXw8FkV/Ng5O4exh41kaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ARZe79ukAcDx0Agl8t/qbWbXw8FkV/Ng5O4exh41kaU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g11.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q99CJ1PjcmbXm5WMyaEIOwMPGG0U6Xzkm0LfZVR+hgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q99CJ1PjcmbXm5WMyaEIOwMPGG0U6Xzkm0LfZVR+hgM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g11.xlse0an7yu.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q99CJ1PjcmbXm5WMyaEIOwMPGG0U6Xzkm0LfZVR+hgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlse0an7yu"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q99CJ1PjcmbXm5WMyaEIOwMPGG0U6Xzkm0LfZVR+hgM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g12.1ptxxa826t.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a8LQKF478vzuAUpezwrZcnqmfXvX+Z21eLGEkPchXGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ptxxa826t"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8LQKF478vzuAUpezwrZcnqmfXvX+Z21eLGEkPchXGM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g12.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a8LQKF478vzuAUpezwrZcnqmfXvX+Z21eLGEkPchXGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8LQKF478vzuAUpezwrZcnqmfXvX+Z21eLGEkPchXGM="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g2.2h6ewpgw95.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RjzOyZCNMsslrGGVYocBZc4Vjce/c97NCWmP77e8vkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2h6ewpgw95"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RjzOyZCNMsslrGGVYocBZc4Vjce/c97NCWmP77e8vkg="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g2.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RjzOyZCNMsslrGGVYocBZc4Vjce/c97NCWmP77e8vkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RjzOyZCNMsslrGGVYocBZc4Vjce/c97NCWmP77e8vkg="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g3.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxV1kg7bKDehFxYol/9F3ccIG2HKE3isZWDeL16wtdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxV1kg7bKDehFxYol/9F3ccIG2HKE3isZWDeL16wtdU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g3.tkd68qzqjw.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxV1kg7bKDehFxYol/9F3ccIG2HKE3isZWDeL16wtdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkd68qzqjw"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxV1kg7bKDehFxYol/9F3ccIG2HKE3isZWDeL16wtdU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g4.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"19daeofkxsNV6NInPW/0e1fewjlhgV3DkXDhnawZplQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-19daeofkxsNV6NInPW/0e1fewjlhgV3DkXDhnawZplQ="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g4.jpsuzi6kpl.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"19daeofkxsNV6NInPW/0e1fewjlhgV3DkXDhnawZplQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpsuzi6kpl"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-19daeofkxsNV6NInPW/0e1fewjlhgV3DkXDhnawZplQ="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g5.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2SeLDNuec4KO4FXZa96l5bd/+96D98EhFU1BV60izrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SeLDNuec4KO4FXZa96l5bd/+96D98EhFU1BV60izrs="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g5.rrsy2caase.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2SeLDNuec4KO4FXZa96l5bd/+96D98EhFU1BV60izrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rrsy2caase"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SeLDNuec4KO4FXZa96l5bd/+96D98EhFU1BV60izrs="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g6.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twn5tRuBSyQaTJC6KzkBcakgy0S6aqQik8L4CMnbGH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-twn5tRuBSyQaTJC6KzkBcakgy0S6aqQik8L4CMnbGH0="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g6.r76dh62gag.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twn5tRuBSyQaTJC6KzkBcakgy0S6aqQik8L4CMnbGH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r76dh62gag"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-twn5tRuBSyQaTJC6KzkBcakgy0S6aqQik8L4CMnbGH0="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g7.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtvxtEz7JYT8v2oA4Ut9sAinp+gfsHfTY2xR3LEq2zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtvxtEz7JYT8v2oA4Ut9sAinp+gfsHfTY2xR3LEq2zU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g7.mk5rctzus3.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtvxtEz7JYT8v2oA4Ut9sAinp+gfsHfTY2xR3LEq2zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mk5rctzus3"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtvxtEz7JYT8v2oA4Ut9sAinp+gfsHfTY2xR3LEq2zU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g8.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nkf5jTvOpJgB8QjLQEHEXA14W23B7FmD8d1lY2u2+E4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nkf5jTvOpJgB8QjLQEHEXA14W23B7FmD8d1lY2u2+E4="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g8.qrpnlkmszr.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nkf5jTvOpJgB8QjLQEHEXA14W23B7FmD8d1lY2u2+E4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrpnlkmszr"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nkf5jTvOpJgB8QjLQEHEXA14W23B7FmD8d1lY2u2+E4="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g9.7kk1dujnil.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3N5C1cLQ04DyS1DmWCgsnZBeuW98QfE/sO3cLRhkdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kk1dujnil"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/g9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3N5C1cLQ04DyS1DmWCgsnZBeuW98QfE/sO3cLRhkdk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/g9.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\g9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3N5C1cLQ04DyS1DmWCgsnZBeuW98QfE/sO3cLRhkdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3N5C1cLQ04DyS1DmWCgsnZBeuW98QfE/sO3cLRhkdk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/left1.ouxsrkvnld.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\left1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOpu9U2/jx+g9lNpmBKCnWTlXH+dhrRLn2p/C+zFeZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouxsrkvnld"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/left1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOpu9U2/jx+g9lNpmBKCnWTlXH+dhrRLn2p/C+zFeZ8="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/left1.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\left1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOpu9U2/jx+g9lNpmBKCnWTlXH+dhrRLn2p/C+zFeZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOpu9U2/jx+g9lNpmBKCnWTlXH+dhrRLn2p/C+zFeZ8="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/right1.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\right1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oevU0cDQ25tE5LmDsE4qxV3fAKWgDw59nIxIaqdyjRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oevU0cDQ25tE5LmDsE4qxV3fAKWgDw59nIxIaqdyjRQ="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/right1.x00e4cg7w8.png",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\right1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oevU0cDQ25tE5LmDsE4qxV3fAKWgDw59nIxIaqdyjRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x00e4cg7w8"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/right1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oevU0cDQ25tE5LmDsE4qxV3fAKWgDw59nIxIaqdyjRQ="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/s2.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\s2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "472958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRJQooNo37vhufWWcz1Mh6E+Emgj2Yp3JvrboIJknWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRJQooNo37vhufWWcz1Mh6E+Emgj2Yp3JvrboIJknWk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/s2.jpky8iw3qd.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\s2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "472958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qRJQooNo37vhufWWcz1Mh6E+Emgj2Yp3JvrboIJknWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpky8iw3qd"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/s2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qRJQooNo37vhufWWcz1Mh6E+Emgj2Yp3JvrboIJknWk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t1.37vc4hdjxa.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ed8vV1vY9OL1B+ds2WdTLY82ZpjiI7YAbTrKgccs8j8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37vc4hdjxa"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/t1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ed8vV1vY9OL1B+ds2WdTLY82ZpjiI7YAbTrKgccs8j8="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t1.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ed8vV1vY9OL1B+ds2WdTLY82ZpjiI7YAbTrKgccs8j8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ed8vV1vY9OL1B+ds2WdTLY82ZpjiI7YAbTrKgccs8j8="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t2.c65j7bp8px.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9KM99nW+xkkcRoOzIKZn3AN7Ms7hX4QCBceSEKFey9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c65j7bp8px"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/t2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9KM99nW+xkkcRoOzIKZn3AN7Ms7hX4QCBceSEKFey9g="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t2.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9KM99nW+xkkcRoOzIKZn3AN7Ms7hX4QCBceSEKFey9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9KM99nW+xkkcRoOzIKZn3AN7Ms7hX4QCBceSEKFey9g="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t3.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vV9scGkvcp+eMcQHqr/bz7qSwQV9t45Um3ycn4at6RU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vV9scGkvcp+eMcQHqr/bz7qSwQV9t45Um3ycn4at6RU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t3.rymwk01rkq.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vV9scGkvcp+eMcQHqr/bz7qSwQV9t45Um3ycn4at6RU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rymwk01rkq"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/t3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vV9scGkvcp+eMcQHqr/bz7qSwQV9t45Um3ycn4at6RU="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t4.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeWGEu2GeciiwP1S0PlFjdk4TAsRZ98mWKpjkrCq1gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeWGEu2GeciiwP1S0PlFjdk4TAsRZ98mWKpjkrCq1gk="
+        }
+      ]
+    },
+    {
+      "Route": "web/images/t4.r6zrw8neak.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\images\\t4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeWGEu2GeciiwP1S0PlFjdk4TAsRZ98mWKpjkrCq1gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6zrw8neak"
+        },
+        {
+          "Name": "label",
+          "Value": "web/images/t4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeWGEu2GeciiwP1S0PlFjdk4TAsRZ98mWKpjkrCq1gk="
+        }
+      ]
+    },
+    {
+      "Route": "web/index.html",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Xtcmq1xlaGycPx4BrOa8HNg+PTH7gdAymPXtqfpQnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Xtcmq1xlaGycPx4BrOa8HNg+PTH7gdAymPXtqfpQnM="
+        }
+      ]
+    },
+    {
+      "Route": "web/index.v0wokukn9t.html",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Xtcmq1xlaGycPx4BrOa8HNg+PTH7gdAymPXtqfpQnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0wokukn9t"
+        },
+        {
+          "Name": "label",
+          "Value": "web/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Xtcmq1xlaGycPx4BrOa8HNg+PTH7gdAymPXtqfpQnM="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/bootstrap-3.1.1.min.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY0FoX8s/FEg3c26R6iFw3jAtGbzDwcA5QJ1fiS0A6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY0FoX8s/FEg3c26R6iFw3jAtGbzDwcA5QJ1fiS0A6E="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/bootstrap-3.1.1.min.tvljo4vky9.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iY0FoX8s/FEg3c26R6iFw3jAtGbzDwcA5QJ1fiS0A6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvljo4vky9"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/bootstrap-3.1.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iY0FoX8s/FEg3c26R6iFw3jAtGbzDwcA5QJ1fiS0A6E="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/easing.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcQVxKOizis3JWenvXvxCsxV7ZI55ytO+E8UND0egcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcQVxKOizis3JWenvXvxCsxV7ZI55ytO+E8UND0egcs="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/easing.xxaw5gyt3t.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZcQVxKOizis3JWenvXvxCsxV7ZI55ytO+E8UND0egcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxaw5gyt3t"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/easing.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZcQVxKOizis3JWenvXvxCsxV7ZI55ytO+E8UND0egcs="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/easy-responsive-tabs.aeovyxw7f5.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vizadZEtfo3DGEgYx7HIKKnApw1FnxeJpwkEGIlRasE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aeovyxw7f5"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/easy-responsive-tabs.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vizadZEtfo3DGEgYx7HIKKnApw1FnxeJpwkEGIlRasE="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/easy-responsive-tabs.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vizadZEtfo3DGEgYx7HIKKnApw1FnxeJpwkEGIlRasE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vizadZEtfo3DGEgYx7HIKKnApw1FnxeJpwkEGIlRasE="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery.chocolat.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85KrfuuKA8JfQmEIjEPmMNE0kz4Z648mV3+Sf3VhJgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85KrfuuKA8JfQmEIjEPmMNE0kz4Z648mV3+Sf3VhJgc="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery.chocolat.jwq38cvl2r.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85KrfuuKA8JfQmEIjEPmMNE0kz4Z648mV3+Sf3VhJgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jwq38cvl2r"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/jquery.chocolat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85KrfuuKA8JfQmEIjEPmMNE0kz4Z648mV3+Sf3VhJgc="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery.picEyes.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z52/COlSVl4GyRH5S0EV9MtbY4SnyyELhP27to5eV68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z52/COlSVl4GyRH5S0EV9MtbY4SnyyELhP27to5eV68="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery.picEyes.napbh21x5l.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z52/COlSVl4GyRH5S0EV9MtbY4SnyyELhP27to5eV68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "napbh21x5l"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/jquery.picEyes.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z52/COlSVl4GyRH5S0EV9MtbY4SnyyELhP27to5eV68="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery-2.1.4.min.hc7330kktn.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hc7330kktn"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/jquery-2.1.4.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/jquery-2.1.4.min.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/main.j7vrlcivdo.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWTMMHxn3YiU7XJ2e5BfZ2BwqjxZaDBLEIY+vmoDLsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7vrlcivdo"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWTMMHxn3YiU7XJ2e5BfZ2BwqjxZaDBLEIY+vmoDLsA="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/main.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWTMMHxn3YiU7XJ2e5BfZ2BwqjxZaDBLEIY+vmoDLsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWTMMHxn3YiU7XJ2e5BfZ2BwqjxZaDBLEIY+vmoDLsA="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/modernizr-2.6.2.min.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zyXsGPIj9MUc4RKKQuZEzcIkTYj4nRpRRA2dvlH07+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyXsGPIj9MUc4RKKQuZEzcIkTYj4nRpRRA2dvlH07+g="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/modernizr-2.6.2.min.zralgbu0ia.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zyXsGPIj9MUc4RKKQuZEzcIkTYj4nRpRRA2dvlH07+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zralgbu0ia"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/modernizr-2.6.2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyXsGPIj9MUc4RKKQuZEzcIkTYj4nRpRRA2dvlH07+g="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/move-top.fwsdrdekva.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\move-top.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cf0Aok3Zr6TKIvLIcTz3tMIt1xzinhkyZZfNaFk1CTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwsdrdekva"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/move-top.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cf0Aok3Zr6TKIvLIcTz3tMIt1xzinhkyZZfNaFk1CTA="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/move-top.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\move-top.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cf0Aok3Zr6TKIvLIcTz3tMIt1xzinhkyZZfNaFk1CTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cf0Aok3Zr6TKIvLIcTz3tMIt1xzinhkyZZfNaFk1CTA="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/responsiveslides.min.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HzBttanClHes3Wt41Xc08Kp5NqH6m5uovTYgS6Eqr0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HzBttanClHes3Wt41Xc08Kp5NqH6m5uovTYgS6Eqr0A="
+        }
+      ]
+    },
+    {
+      "Route": "web/js/responsiveslides.min.l3mkjgv0oy.js",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HzBttanClHes3Wt41Xc08Kp5NqH6m5uovTYgS6Eqr0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:59:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3mkjgv0oy"
+        },
+        {
+          "Name": "label",
+          "Value": "web/js/responsiveslides.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HzBttanClHes3Wt41Xc08Kp5NqH6m5uovTYgS6Eqr0A="
+        }
+      ]
+    },
+    {
+      "Route": "web/w3layouts-License.abk39e1po0.txt",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\w3layouts-License.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abk39e1po0"
+        },
+        {
+          "Name": "label",
+          "Value": "web/w3layouts-License.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas="
+        }
+      ]
+    },
+    {
+      "Route": "web/w3layouts-License.txt",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\web\\w3layouts-License.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 17:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoUGsMcVGyWE+F18CFKSySmgX1o7f91ELiLiGWeyOas="
         }
       ]
     }

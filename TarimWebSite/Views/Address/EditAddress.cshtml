@@ -1,0 +1,119 @@
+﻿@model EntityLayer.Concrete.Adress
+@{
+    ViewData["Title"] = "EditAddress";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1> </h1>
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Adres Düzenleme Formu  </h4>
+        <p class="card-description">
+            Adres Bilgileri
+        </p>
+        <form method="post" class="forms-sample">
+
+            <div class="form-group">
+                @Html.HiddenFor(x => x.AdressID)
+                <label for="exampleInputUsername1">Description1 Bilgileri  </label>
+                <input type="text" class="form-control" placeholder="Description1 " asp-for="Description1">
+
+                @if (ViewData.ModelState["Description1"] != null && ViewData.ModelState["Description1"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Description1"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Description2 Bilgileri </label>
+                <input type="text" class="form-control" placeholder="Description2" asp-for="Description2">
+
+                @if (ViewData.ModelState["Description2"] != null && ViewData.ModelState["Description2"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Description2"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1"> Description3 </label>
+                <input type="text" class="form-control" placeholder="Description3 " name="Description3" id="Description3" asp-for="Description3">
+                @if (ViewData.ModelState["Description3"] != null && ViewData.ModelState["Description3"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Description3"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1"> Description4 Bilgileri</label>
+                <input type="text" class="form-control" placeholder="Description4 " name="Description4" id="Description4" asp-for="Description4">
+                @if (ViewData.ModelState["Description4"] != null && ViewData.ModelState["Description4"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Description4"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1"> Oluşturulma Tarihi</label>
+                <input type="text" class="form-control" placeholder="" name="Mapinfo" id="Mapinfo" asp-for="Mapinfo">
+                @if (ViewData.ModelState["Mapinfo"] != null && ViewData.ModelState["Mapinfo"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Mapinfo"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+
+
+            <div class="form-check form-check-flat form-check-primary">
+                <label class="form-check-label">
+                    <input type="checkbox" class="form-check-input" id="onay" name="onay" value="true">
+                    Onay
+                </label>
+            </div>
+            @if (ViewData.ModelState["onay"] != null && ViewData.ModelState["onay"].Errors.Any())
+            {
+                <div class="alert alert-danger mt-2">
+                    @ViewData.ModelState["onay"]?.Errors.FirstOrDefault()?.ErrorMessage
+                </div>
+            }
+
+            <button type="submit" class="btn btn-primary me-2">Kayıt Güncelle </button>
+            <a href="/Announcements/Index" class="btn btn-light">Geri Dön</a>
+        </form>
+    </div>
+
+</div>
+<br />
+
+

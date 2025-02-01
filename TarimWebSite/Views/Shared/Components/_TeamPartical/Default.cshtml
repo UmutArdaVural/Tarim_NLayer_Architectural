@@ -1,0 +1,49 @@
+﻿@using EntityLayer.Concrete
+@model List<Team>
+
+<div class="team" id="team">
+	<div class="container">
+		<h3 class="tittle">Takımız ile tanışın </h3>
+		<p class="heading-btm-w3ls">Değerli takım üyelerimiz </p>
+		<div class="wthree_team_grids">
+			@foreach(var item in Model)
+			{
+				<div class="col-md-3 wthree_team_grid">
+					<div style="height:325px; width:275px" class="hovereffect">
+						<img style="height:325px; width:275px" src="@item.ImageUrl" alt=" " class="img-responsive" />
+						<div class="overlay">
+							<h6> İletişim Bilgileri </h6>
+							<div class="rotate">
+								<p class="group1">
+									<a href="@item.XUrl">
+										<i class="fa-brands fa-square-x-twitter"></i>
+									</a>
+									<a href="@item.FacebookUrl">
+										<i class="fa-brands fa-square-facebook"></i>
+									</a>
+								</p>
+								<hr>
+								<hr>
+								<p class="group2">
+									<a href="@item.WebSiteUrl">
+										<i class="fa-brands fa-square-instagram"></i>
+									</a>
+									<a href="@item.FacebookUrl">
+										<i class="fa-brands fa-linkedin"></i>
+									</a>
+								</p>	
+							</div>
+						</div>
+					</div>
+					<h4>@item.Name</h4>
+					<p>@item.Title</p>
+				</div>
+
+			}
+			
+			
+		
+			<div class="clearfix">   </div>
+		</div>
+	</div>
+</div>

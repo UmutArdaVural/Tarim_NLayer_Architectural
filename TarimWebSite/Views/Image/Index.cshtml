@@ -1,0 +1,93 @@
+﻿@using EntityLayer.Concrete
+@model List<Image>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Görsel  Listesi</h4>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                #
+                            </th>
+                            <th>
+                                Görsel
+                            </th>
+                            <th>
+                                Başlık
+                            </th>
+                            <th>
+                                Tanımlama
+                            </th>
+                            <th>
+                                Sil
+                            </th>
+                            <th>
+                                Düzenle
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @if (Model == null || !Model.Any())
+                        {
+                            <tr>
+                                <td>Hiç Duyuru Bulunmadı</td>
+                                <td> </td>
+                                <td> </td>
+                                <td> </td>
+                                <td> </td>
+                                <td> </td>
+                            </tr>
+                            <tr> </tr>
+                        }
+
+                        @foreach (var item in Model)
+                        {
+                            
+
+                            <tr>
+                                <td> @item.ImageID</td>
+                                <td class="py-1">
+                                    <img src="@item.ImageUrl" alt="image" />
+                                </td>
+                                <td> @item.Title</td>
+                                <td> @item.Description</td>
+                                
+                                <td style=" padding: 8px; text-align: center; width: 100px;">
+                                    <a href="/Image/DeleteImage/@item.ImageID">
+                                        <button type="button" class="btn btn-danger btn-sm" style="width: 100%;">Görsel Sil</button>
+                                    </a>
+                                </td>
+                                <td style=" padding: 8px; text-align: center; width: 160px;">
+                                    <a href="/Image/EditImage/@item.ImageID">
+                                        <button type="button" class="btn btn-sm" style="width: 100%; background-color: #7FFFD4; color: #000;">Görsel Güncelle</button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+                <br />
+                <a href="/Image/Add">
+                    <button type="button" style="background-color:#008B8B; color:white;" class="btn btn-success">Görsel Ekle</button>
+                </a>
+
+
+                <br />
+            </div>
+        </div>
+    </div>
+</div>

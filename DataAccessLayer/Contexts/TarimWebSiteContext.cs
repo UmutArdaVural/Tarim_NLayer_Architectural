@@ -36,7 +36,8 @@ namespace DataAccessLayer.Contexts
 
         public DbSet<Team> Teams { get; set; }
 
+        public DbSet<SocialMedia> socialMedias { get; set; }
 
-
+        public DbSet<About> abouts { get; set; } 
     }
 }

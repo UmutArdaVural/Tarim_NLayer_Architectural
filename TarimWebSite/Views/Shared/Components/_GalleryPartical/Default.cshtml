@@ -1,0 +1,29 @@
+﻿@using EntityLayer.Concrete
+@model List<Image>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="gallery" id="gallery">
+	<div class="container">
+		<h3 class="tittle">Resimlerimiz </h3>
+		<p class="heading-btm-w3ls">Çalışmalarımıza ait resimler </p>
+		<div class="agile_gallery_grids w3-agile">
+			<ul class="clearfix demo">
+				@foreach(var item in Model)
+				{
+					<li style="height:350px; width:350px">
+						<div class="gallery-grid1">
+							<img style="height:350px; width:350px" src="@item.ImageUrl" alt=" " class="img-responsive" />
+							<div class="p-mask">
+								<h4>In <span>Harvest</span> <br /> <span>@item.Title </span> </h4>
+								<p>@item.Description</p>
+							</div>
+						</div>
+					</li>
+				}
+		
+				
+			</ul>
+		</div>
+	</div>
+</div>

@@ -37,20 +37,23 @@
                         </tr>
                     </thead>
                     <tbody>
+
+
+                        @if (Model == null || !Model.Any())
+                        {
+                            <tr>
+                                <td>Hiç Çalışan Bulunmadı</td>
+                            </tr>
+                        }
                        
-                        
-                        
+
                         @foreach(var item  in Model ){
-                            if (Model == null)
-                            {
-                                <tr> Hiç Çalışan Bulunmadı </tr>
-                                return;
-                            }
+                           
                            
                             <tr>
                                 <td> @item.TeamID</td>
                                 <td class="py-1">
-                                 <img src="https://media.licdn.com/dms/image/v2/D4D03AQH0ITBt84oMMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697826176958?e=1743033600&v=beta&t=U30asYznTnUWtQUSLRTPNhrJC0lmlY3L2yt4MYKTTTs" alt="image" />
+                                 <img src="@item.ImageUrl" alt="image" />
                                 </td>
                                 <td> @item.Name</td>
                                 <td> @item.Title</td>

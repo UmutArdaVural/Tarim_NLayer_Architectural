@@ -1,0 +1,80 @@
+﻿@using EntityLayer.Concrete
+@model List<Announcement>
+
+<div class="blog" id="blog">
+	<div class="container">
+		<h3 class="tittle">Son Haberler</h3>
+		<p class="heading-btm-w3ls">Çifliklerimiz ve Tarlalarımızdan son duyurular.</p>
+		@{
+			int sayac = 0;
+		}
+		@foreach (var item in Model)
+		{
+			if (!item.Status)
+			{
+				continue;
+			}
+			@if (sayac % 2 == 0)
+			{
+				<div class="blog-grid-w3-agileits">
+					<div class="col-md-7 blog-img1-agileits-w3layouts">
+						<a href="#" data-toggle="modal" data-target="#modal_@sayac"></a>
+					</div>
+					<div class="col-md-5 blog-info-w3layouts">
+						<h6><a href="#" data-toggle="modal" data-target="#modal_@sayac">@item.Title</a></h6>
+						<div class="inner-info">
+							<a href="#" class="blog-text-w3ls bar">Yayınlanma Tarihi</a><span>@item.CreateDateTime</span>
+							<p class="para-w3-agileits">@item.Description</p>
+						</div>
+						<a href="#" class="blog-more-agile" data-toggle="modal" data-target="#modal_@sayac">Daha Fazlasını Oku</a>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			}
+			else
+			{
+				<div class="blog-grid-w3-agileits">
+					<div class="col-md-5 blog-info-w3layouts blog-mid">
+						<h6><a href="#" data-toggle="modal" data-target="#modal_@sayac">@item.Title</a></h6>
+						<div class="inner-info-mid">
+							<a href="#" class="blog-text-w3ls mid-bar">Yayınlanma Tarihi</a><span>@item.CreateDateTime</span>
+							<p class="para-w3-agileits">@item.Description</p>
+						</div>
+						<a href="#" class="blog-more-agile" data-toggle="modal" data-target="#modal_@sayac">Daha Fazlasını Oku</a>
+					</div>
+					<div class="col-md-7 blog-img2-agileits-w3layouts">
+						<a href="#" data-toggle="modal" data-target="#modal_@sayac"></a>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			}
+			sayac++;
+		}
+	</div>
+</div>
+
+@{
+	int sayac2 = 0;
+}
+@foreach (var item in Model)
+{
+	if (!item.Status)
+	{
+		continue;
+	}
+
+	<div class="modal fade" id="modal_@sayac2" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4>In Harvest</h4>
+					<img src="~/web/images/b1.jpg" alt=" " class="img-responsive">
+					<h5>@item.Title</h5>
+					<p>@item.Description</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	sayac2++;
+}

@@ -1,0 +1,95 @@
+﻿@model EntityLayer.Concrete.Image
+@{
+    ViewData["Title"] = "EditImage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h1> </h1>
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Duyuru  Kayıt Düzenleme Formu  </h4>
+        <p class="card-description">
+            Duyuru Bilgiler
+        </p>
+        <form method="post" class="forms-sample">
+          
+            <div class="form-group">
+                @Html.HiddenFor(x => x.ImageID)
+                <label for="exampleInputUsername1">Duyuru Başlığı </label>
+                <input type="text" class="form-control" placeholder="Duyuru Başlığı " asp-for="Title">
+
+                @if (ViewData.ModelState["Title"] != null && ViewData.ModelState["Title"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Title"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+             
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1"> Duyuru Bilgileri  </label>
+                <input type="text" class="form-control" placeholder="Duyuru Bilgileri" asp-for="Description">
+
+                @if (ViewData.ModelState["Description"] != null && ViewData.ModelState["Description"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["Description"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1"> Resim Yolu</label>
+                <input type="text" class="form-control" placeholder="Resim Yolu" asp-for="ImageUrl">
+                @if (ViewData.ModelState["ImageUrl"] != null && ViewData.ModelState["ImageUrl"].Errors.Any())
+                {
+                    <div class="alert alert-danger mt-2">
+                        @foreach (var error in ViewData.ModelState["ImageUrl"].Errors)
+                        {
+                            <span>@error.ErrorMessage</span>
+
+                            <br />
+                        }
+                    </div>
+                }
+            </div>
+            <div class="form-group" style="margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+                @if (!string.IsNullOrEmpty(Model?.ImageUrl))
+                {
+                       <img src="@Model.ImageUrl" alt="Örnek Resim" style="width: 100%; height: 100%; object-fit: contain;">
+                    
+                }
+            </div>
+
+            <div class="form-check form-check-flat form-check-primary">
+                <label class="form-check-label">
+                    <input type="checkbox" class="form-check-input" id="onay" name="onay" value="true">
+                    Onay
+                </label>
+            </div>
+            @if (ViewData.ModelState["onay"] != null && ViewData.ModelState["onay"].Errors.Any())
+            {
+                <div class="alert alert-danger mt-2">
+                    @ViewData.ModelState["onay"]?.Errors.FirstOrDefault()?.ErrorMessage
+                </div>
+            }
+
+            <button type="submit" class="btn btn-primary me-2">Kayıt Güncelle </button>
+            <a href="/Image/Index" class="btn btn-light">Geri Dön</a>
+        </form>
+    </div>
+
+</div>
+<br />
+
+

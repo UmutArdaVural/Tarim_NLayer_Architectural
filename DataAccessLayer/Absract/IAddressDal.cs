@@ -9,5 +9,6 @@ namespace DataAccessLayer.Absract
 {
     public interface IAddressDal:IGenericDal<Adress>
     {
+
     }
 }
