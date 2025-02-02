@@ -24,6 +24,42 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 18:16:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/hero-bg.9lu19g53lm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\hero-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9lu19g53lm"},{"Name":"integrity","Value":"sha256-HUrFXgqd\u002BQgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="},{"Name":"label","Value":"_content/TarimWebSite/Glassmorphism Login Form/hero-bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"324798"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HUrFXgqd\u002BQgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/hero-bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\hero-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HUrFXgqd\u002BQgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"324798"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HUrFXgqd\u002BQgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rW570U4u\u002B\u002BVOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1044"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rW570U4u\u002B\u002BVOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/index.pptlhd23pz.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pptlhd23pz"},{"Name":"integrity","Value":"sha256-rW570U4u\u002B\u002BVOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="},{"Name":"label","Value":"_content/TarimWebSite/Glassmorphism Login Form/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1044"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rW570U4u\u002B\u002BVOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C\u002Ba0DANvWU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2306"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C\u002Ba0DANvWU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TarimWebSite/Glassmorphism Login Form/style.p6yciq114a.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Glassmorphism Login Form\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p6yciq114a"},{"Name":"integrity","Value":"sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C\u002Ba0DANvWU="},{"Name":"label","Value":"_content/TarimWebSite/Glassmorphism Login Form/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2306"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C\u002Ba0DANvWU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 17:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TarimWebSite/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

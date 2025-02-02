@@ -1,0 +1,21 @@
+﻿@using EntityLayer.Concrete
+@model List<Adress>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h3 class="tittle">  Bizimle İletişim Kurun 
+
+</h3>
+<p class="heading-btm-w3ls"> <span style="color:lightblue"> Değerli Müşterilerimiz aşadaki bağlantılar ile iletişim kurabilirsiniz </span> </p>
+<div class="col-md-3 contact-left">
+	<h4> Adresimiz </h4>
+	@foreach(var item in Model )
+	{
+		<p>@item.Description2</p>
+		<p>@item.Description3,</p>
+		<h4>İletişim Maili</h4>
+		<p>@item.Description1</p>
+		<h4>İletişim Numarası</h4>
+		<p>+90 @item.Description4</p>
+	}
+	

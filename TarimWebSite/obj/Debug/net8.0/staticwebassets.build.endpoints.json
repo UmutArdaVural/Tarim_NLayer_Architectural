@@ -3,6 +3,252 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Glassmorphism Login Form/hero-bg.9lu19g53lm.jpg",
+      "AssetFile": "Glassmorphism Login Form/hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9lu19g53lm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/hero-bg.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/hero-bg.jpg",
+      "AssetFile": "Glassmorphism Login Form/hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/index.html",
+      "AssetFile": "Glassmorphism Login Form/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/index.pptlhd23pz.html",
+      "AssetFile": "Glassmorphism Login Form/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pptlhd23pz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/index.html"
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/style.css",
+      "AssetFile": "Glassmorphism Login Form/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/style.p6yciq114a.css",
+      "AssetFile": "Glassmorphism Login Form/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p6yciq114a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU="
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/style.css"
+        }
+      ]
+    },
+    {
       "Route": "MajesticAdmin-Free-Bootstrap-Admin-Template-master/.gitignore",
       "AssetFile": "MajesticAdmin-Free-Bootstrap-Admin-Template-master/.gitignore",
       "Selectors": [],

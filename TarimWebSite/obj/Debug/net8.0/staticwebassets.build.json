@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4u5EXSLYIQgl3oqTAz6qyC2/1nO8qjHodm/DZPnGWSM=",
+  "Hash": "8u5FJE5AkW86ijlN9JFHtinR8yc6XAWePksJsa7xoj4=",
   "Source": "TarimWebSite",
   "BasePath": "_content/TarimWebSite",
   "Mode": "Default",
@@ -99,6 +99,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\hero-bg.jpg",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "Glassmorphism Login Form/hero-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9lu19g53lm",
+      "Integrity": "HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Glassmorphism Login Form\\hero-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\index.html",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "Glassmorphism Login Form/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pptlhd23pz",
+      "Integrity": "rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Glassmorphism Login Form\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\style.css",
+      "SourceId": "TarimWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\",
+      "BasePath": "_content/TarimWebSite",
+      "RelativePath": "Glassmorphism Login Form/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p6yciq114a",
+      "Integrity": "EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Glassmorphism Login Form\\style.css"
     },
     {
       "Identity": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\js\\site.js",
@@ -5660,6 +5723,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/hero-bg.9lu19g53lm.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9lu19g53lm"
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/hero-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/hero-bg.jpg",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HUrFXgqd+QgZhzLjeETGSd4ZgiawYURrMVMArOlAI2U="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/index.html",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/index.pptlhd23pz.html",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pptlhd23pz"
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rW570U4u++VOdZcOtYvrkNjWK38NOPDuE8Ifc75rid0="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/style.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU="
+        }
+      ]
+    },
+    {
+      "Route": "Glassmorphism Login Form/style.p6yciq114a.css",
+      "AssetFile": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 17:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p6yciq114a"
+        },
+        {
+          "Name": "label",
+          "Value": "Glassmorphism Login Form/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYIUIbEE6x57DtCYkOyrd/29FMlvY12b/C+a0DANvWU="
         }
       ]
     },

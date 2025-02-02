@@ -1,5 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Glassmorphism Login Form\hero-bg.jpg
+wwwroot\Glassmorphism Login Form\index.html
+wwwroot\Glassmorphism Login Form\style.css
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -32,6 +32,10 @@ builder.Services.AddScoped<ISocialMediaDal, EfSocialMedia>();
 builder.Services.AddScoped<IAboutService, AboutManager>();
 builder.Services.AddScoped<IAboutDal, EfAboutDal>();
 
+builder.Services.AddScoped<IAdminService, AdminManager>();
+builder.Services.AddScoped<IAdminDal, EfAdminDal>();
+
+
 
 builder.Services.AddDbContext<TarimWebSiteContext>();
 var app = builder.Build();

@@ -39,5 +39,7 @@ namespace DataAccessLayer.Contexts
         public DbSet<SocialMedia> socialMedias { get; set; }
 
         public DbSet<About> abouts { get; set; } 
+
+        public DbSet<Admin> admins { get; set; }
     }
 }

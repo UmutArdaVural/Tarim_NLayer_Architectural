@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\TarimWebSite.tmjtvhulx4.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\Glassmorphism Login Form\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\index.html",
+      "PackagePath": "staticwebassets\\Glassmorphism Login Form\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\Glassmorphism Login Form\\style.css",
+      "PackagePath": "staticwebassets\\Glassmorphism Login Form\\style.css"
+    },
+    {
       "Id": "C:\\Users\\umuta\\source\\repos\\TarimWebSite\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.gitignore",
       "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.gitignore"
     },
